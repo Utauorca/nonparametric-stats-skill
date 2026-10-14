@@ -1,0 +1,19 @@
+# Course slides (not part of this skill)
+slides.html
+
+# Quarto build artifacts
+/.quarto/
+*_files/
+*_cache/
+*.tex
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated plot output from run_test.py
+nonparametric_eda.png
+
+# OS
+Thumbs.db
+.DS_Store
