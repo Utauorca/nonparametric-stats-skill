@@ -1,6 +1,3 @@
-# Course slides (not part of this skill)
-slides.html
-
 # Quarto build artifacts
 /.quarto/
 *_files/
