@@ -1,7 +1,7 @@
 ---
 title: "Nonparametric Statistics Skill — Overview"
 subtitle: "File structure and what each file does"
-author: "Presenter"
+author: "Hsieh Po Sheng"
 institute: "Department of Statistics, National Cheng Kung University"
 date: today
 date-format: "YYYY/MM/DD"
